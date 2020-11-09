@@ -12,7 +12,7 @@
 <body class="bg-dark">
     <div class="container mt-5">
         <div class="row justify-content-center text-white">
-            <div class="col-md-4 text-center">
+            <div class="col-md text-center">
                 <div class="card bg-warning" style="width: 25rem;">
                     <div class="card-header h5">Bored To Do </div>
                     <ul class="list-group  list-group-flush">
